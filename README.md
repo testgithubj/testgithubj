@@ -1,122 +1,124 @@
-👨‍💻 Sadman Sanid Tanim
+# 👨‍💻 Sadman Sanid Tanim  
 
-Senior DevOps Engineer | Cloud Infrastructure | Automation | CI/CD | AWS | Kubernetes
+**Senior DevOps Engineer | Cloud Infrastructure | Automation | CI/CD | AWS | Kubernetes**  
 
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/sadman-sanid-077577265/)  
-📄 [📥 Download My Resume](./resume.pdf)
+📄 [📥 Download My Resume](./resume.pdf)  
 
+---
 
-🚀 About Me
+## 🚀 About Me  
 
-I am a Senior DevOps Engineer with extensive experience in automation, virtualization, cloud infrastructure, and software module development.
-With a strong foundation in VMware virtualization and cloud-native services (AWS, Terraform, Jenkins, Docker, Ansible, Zabbix), I have led the design and deployment of scalable, secure, and cost-optimized systems for enterprises.
+I am a **Senior DevOps Engineer** with extensive experience in **automation, virtualization, cloud infrastructure, and software module development**.  
+With a strong foundation in **VMware virtualization** and **cloud-native services (AWS, Terraform, Jenkins, Docker, Ansible, Zabbix)**, I have led the design and deployment of **scalable, secure, and cost-optimized systems** for enterprises.  
 
-My career spans from software development (building enterprise applications) to DevOps leadership, giving me a unique edge in understanding both development and infrastructure lifecycles. I am passionate about automation, performance optimization, and mentoring DevOps teams to deliver high-quality, reliable systems that fuel business growth.
+My career spans from **software development** (building enterprise applications) to **DevOps leadership**, giving me a unique edge in understanding both development and infrastructure lifecycles.  
+I am passionate about **automation, performance optimization, and mentoring DevOps teams** to deliver high-quality, reliable systems that fuel business growth.  
 
-🔧 Core Skills & Expertise
+---
 
-Cloud Platforms & Virtualization:
+## 🔧 Core Skills & Expertise  
 
-AWS (EC2, ECS Fargate, S3, RDS, Redshift, Lambda, IAM, Route 53, CloudFront, CloudWatch, CloudTrail)
+### ☁️ Cloud Platforms & Virtualization  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-Azure, VMware vSphere (ESXi, vCenter)
+### ⚙️ Infrastructure as Code (IaC)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-Infrastructure as Code (IaC):
+### 🚀 CI/CD & Automation  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-Terraform (parameterized modules, tfvars management, ECS/EC2 provisioning)
+### 💻 Scripting & Development  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-Ansible (post-provisioning configuration, software installation, compliance setup)
+### 📊 Monitoring, Logging & Alerting  
+![Zabbix](https://img.shields.io/badge/Zabbix-FF0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-CI/CD & Automation:
+### 🐳 Containerization & Orchestration  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 
-Jenkins Pipelines (Groovy scripting, parameterized deployments, server management)
+### 🔐 Security & Networking  
+- IAM role standardization with permission boundaries  
+- VPC Peering, Private Link, VPN setup, Route 53 DNS integration  
 
-GitHub Actions
+---
 
-Automated certificate renewals, backup routines, and system refreshes
+## 🏆 Key Achievements  
 
-Scripting & Development:
+✔ **ECS Zero Task Architecture** – Auto-scaled ECS clusters with Lambda + CloudWatch, reducing costs.  
+✔ **EC2 Automated Provisioning** – Jenkins pipelines with Terraform + Ansible for AMI updates & deployments.  
+✔ **Cross-Region AMI Ops** – Automated backup, deletion & copy across AWS regions.  
+✔ **CloudFront Access Control** – Restricted requests via HTTP headers & IP logging for audits.  
+✔ **Private Network Architecture** – Built secure VPC Peering & AWS Private Link.  
+✔ **Automated Stage Refresh** – PowerShell + Jenkins pipelines saving 3–4 hours per cycle.  
+✔ **Zabbix Upgrade** – Migrated to latest Zabbix & integrated AWS CloudWatch.  
+✔ **Cert Renewal Automation** – Automated DNS-based certificate renewals with alerts.  
+✔ **Daily Checklist Automation** – Python script replacing 90+ manual checklist items.  
 
-Python, Shell, PowerShell, Groovy
+---
 
-Monitoring, Logging & Alerting:
+## 📌 Professional Experience  
 
-Zabbix (custom triggers, JSON-based checks, backup & sync failure detection)
+**🚀 Lead DevOps Engineer – Startsmartz Technologies (2025 – Present)**  
+- Leading automation, CI/CD, and infra scaling across AWS & hybrid.  
+- Driving cost optimization, monitoring, and team mentorship.  
 
-AWS CloudWatch
+**⚙️ Principal DevOps Engineer – Various Enterprise Projects**  
+- Led multi-cloud infra automation & containerized deployments.  
+- Delivered highly available, secure, and scalable systems.  
 
-Containerization & Orchestration:
+**🛠️ Junior DevOps Engineer – Agni System Limited (2023 – 2025)**  
+- Built system integration & security protocols.  
+- Managed Linux servers, Squid proxy & IT ops (20% downtime reduction).  
+- Developed enterprise financial & utility management systems.  
 
-Docker, AWS ECS, Lambda functions
+---
 
-Serverless architectures with SQS-triggered Lambda
+## 🎓 Education  
 
-Security & Networking:
+🎓 **B.Sc. in Computer Science & Engineering (CSE)** – AIUB (CGPA: 3.70)  
 
-IAM role standardization with permission boundaries
+---
 
-VPC Peering, Private Link, VPN setup, Route 53 DNS integration
+## 📜 Certifications  
 
-🏆 Key Achievements
+- ✅ DevOps Certified Engineer  
+- ✅ Kubernetes (CKA)  
+- ✅ Red Hat Certified System Administrator (RHCSA)  
+- ✅ Cisco Certified Network Associate (CCNA)  
 
-✔ ECS Zero Task Architecture – Designed ECS clusters with zero default tasks; auto-scaled with AWS Lambda + CloudWatch; reduced costs and improved resource utilization.
-✔ EC2 Automated Provisioning – Built Jenkins pipelines (Terraform + Ansible) for EC2 provisioning, AMI updates, and post-deployment software installation.
-✔ Cross-Region AMI Operations – Automated AMI backup, deletion, and copy across AWS regions, streamlining disaster recovery and infra management.
-✔ CloudFront Access Control – Designed functions to restrict requests by HTTP headers & IP logging for security audits.
-✔ Private Network Architecture – Built secure VPC Peering & AWS Private Link to enable internal resource access while reducing costs.
-✔ Automated Stage & Playground Refresh – Developed PowerShell + Jenkins pipelines saving 3–4 hours per cycle in DevOps workload.
-✔ Zabbix Monitoring Upgrade – Migrated to the latest Zabbix, built custom templates, and integrated AWS CloudWatch for hybrid visibility.
-✔ Certificate Renewal Automation – Designed Jenkins pipelines for DNS-based automated certificate renewals with Zabbix alert integration.
-✔ DevOps Daily Checklist Automation – Replaced 90+ manual checklist items with a Python script fetching credentials from Jenkins Vault and sending automated email reports.
+---
 
-📌 Professional Experience
+## 🌍 Languages  
 
-🚀 Lead DevOps Engineer – Startsmartz Technologies (2025 – Present)
+- English – Professional Proficiency  
+- Bangla – Native  
 
-Leading automation, CI/CD, and infrastructure scaling projects across AWS & hybrid environments.
+---
 
-Driving cloud cost optimization, monitoring, and DevOps team mentorship.
+## 📬 How to Reach Me  
 
-⚙️ Principal DevOps Engineer – Various Enterprise Projects
+📧 Email: **sadmantanim65@gmail.com**  
+📍 Location: **Dhaka, Bangladesh**  
+🔗 [LinkedIn](https://www.linkedin.com/in/sadman-sanid-077577265/)  
+📄 [📥 Download My Resume](./resume.pdf)  
 
-Led multi-cloud infrastructure automation, containerized deployments, and serverless workflows.
+---
 
-Delivered solutions that improved availability, scalability, and security.
+## 📊 GitHub Stats  
 
-🛠️ Junior DevOps Engineer – Agni System Limited (2023 – 2025)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=testgithubj&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=testgithubj&layout=compact&theme=radical)  
 
-Built and deployed system integration & security protocols.
+---
 
-Managed Linux servers, Squid proxy deployment, and IT operations optimization (20% downtime reduction).
-
-Developed financial & utility management systems to support enterprise workflows.
-
-🎓 Education
-
-🎓 B.Sc. in Computer Science & Engineering (CSE) – AIUB (CGPA: 3.70)
-
-📜 Certifications
-
-✅ DevOps Certified Engineer
-
-✅ Kubernetes (CKA)
-
-✅ Red Hat Certified System Administrator (RHCSA)
-
-✅ Cisco Certified Network Associate (CCNA)
-
-🌍 Languages
-
-English – Professional Proficiency
-
-Bangla – Native
-
-📬 How to Reach Me
-
-📧 Email: sadmantanim65@gmail.com
-
-📍 Location: Dhaka, Bangladesh
-🔗 [Connect on LinkedIn](https://www.linkedin.com/in/sadman-sanid-077577265/)  
-📄 [📥 Download My Resume](./resume.pdf)
-
-✨ “Automation is not just about efficiency, it’s about empowerment — freeing people to innovate while systems run seamlessly.”
+✨ *“Automation is not just about efficiency, it’s about empowerment — freeing people to innovate while systems run seamlessly.”*  
