@@ -2,9 +2,9 @@
 
 Senior DevOps Engineer | Cloud Infrastructure | Automation | CI/CD | AWS | Kubernetes
 
-🔗 Connect on LinkedIn
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/sadman-sanid-077577265/)  
+📄 [📥 Download My Resume](./resume.pdf)
 
-📄 📥 Download My Resume
 
 🚀 About Me
 
@@ -116,8 +116,7 @@ Bangla – Native
 📧 Email: sadmantanim65@gmail.com
 
 📍 Location: Dhaka, Bangladesh
-🔗 LinkedIn: linkedin.com/in/sadman-sanid-077577265
-
-📄 Resume: 📥 Download Here
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/sadman-sanid-077577265/)  
+📄 [📥 Download My Resume](./resume.pdf)
 
 ✨ “Automation is not just about efficiency, it’s about empowerment — freeing people to innovate while systems run seamlessly.”
