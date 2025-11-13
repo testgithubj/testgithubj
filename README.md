@@ -9,7 +9,7 @@
 
 # 👨‍💻 Sadman Sanid Tanim  
 
-**Senior DevOps Engineer | Cloud Infrastructure | Automation | CI/CD | AWS | Kubernetes**  
+**Senior DevOps Engineer | Cloud Infrastructure | Automation | CI/CD | AWS | K8**  
 
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/sadman-sanid-077577265/)  
 📄 [📥 Download My Resume](./resume.pdf)  
